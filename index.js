@@ -6,7 +6,9 @@ const readline = require('readline').createInterface({
   });
   
   readline.question('Give me some text!', text => {
-    console.log(`This sounds like ${franc(langs.codes(text))}`);
+          const lanGuess = franc(text);
+          const lanGuessLong = langs.where("3", lanGuess);
+          console.log(`This sounds like ${lanGuessLong.name}`)
     readline.close();
   });
 
