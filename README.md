@@ -8,7 +8,7 @@
 Download, open or nativate to using your terminal/command line, run the following command to install
 ```command
 npm install
-``
+```
 
 ## Usage 
 Launch app with following command
