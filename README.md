@@ -5,7 +5,7 @@
 </p>
 
 ## How to install
-Download, open or nativate to using your terminal/command line, run the following command to install
+Download, open or navigate to using your terminal/command line, run the following command to install
 ```command
 npm install
 ```
@@ -19,7 +19,7 @@ npm index.js
 Then supply some text for the application to guess the language
 ## Description
 
-This is a Nodejs application that attempts to identidy a language based on provided text.
+This is a Nodejs application that attempts to identify a language based on provided text.
 
 ## Built with 
 
